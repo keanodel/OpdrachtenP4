@@ -69,7 +69,7 @@ def herstel_naar_origineel(map_pad, backup_bestand):
         print(f"Er is een fout opgetreden: {e}")
 
 def main():
-    map_pad = "C:\\Git\\OpdrachtenP4\\Bestandsnamen\\movie_posters\\movie_posters"  # Map met afbeeldingen
+    map_pad = "C:\\Git\\OpdrachtenP4\\Bestandsnamen\\movie_posters\\movie_posters"
     uitvoer_bestand = "C:\\Git\\OpdrachtenP4\\Bestandsnamen\\gewijzigde_bestanden.txt"
     backup_bestand = "C:\\Git\\OpdrachtenP4\\Bestandsnamen\\backup_bestanden.json"
 
