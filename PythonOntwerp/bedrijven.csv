@@ -1,0 +1,33 @@
+
+idbedrijf,idbranch,naam,adres,postcode,plaats,jaar,winst,omzet
+1,1,MediaX,Markt 5,2345BC,Utrecht,2018,12000,90000
+1,1,MediaX,Markt 5,2345BC,Utrecht,2019,18000,110000
+1,1,MediaX,Markt 5,2345BC,Utrecht,2020,17000,120000
+1,1,MediaX,Markt 5,2345BC,Utrecht,2021,20000,130000
+1,1,MediaX,Markt 5,2345BC,Utrecht,2022,25000,140000
+1,1,MediaX,Markt 5,2345BC,Utrecht,2023,23000,135000
+2,2,Tech BV,Hoofdstraat 1,1234AB,Amsterdam,2018,35000,160000
+2,2,Tech BV,Hoofdstraat 1,1234AB,Amsterdam,2019,37000,170000
+2,2,Tech BV,Hoofdstraat 1,1234AB,Amsterdam,2020,39000,175000
+2,2,Tech BV,Hoofdstraat 1,1234AB,Amsterdam,2021,40000,180000
+2,2,Tech BV,Hoofdstraat 1,1234AB,Amsterdam,2022,42000,178000
+2,2,Tech BV,Hoofdstraat 1,1234AB,Amsterdam,2023,50000,200000
+3,3,AutoPro,Garageweg 2,3456CD,Rotterdam,2018,9000,70000
+3,3,AutoPro,Garageweg 2,3456CD,Rotterdam,2019,12000,80000
+3,3,AutoPro,Garageweg 2,3456CD,Rotterdam,2020,16000,85000
+3,3,AutoPro,Garageweg 2,3456CD,Rotterdam,2021,15000,90000
+3,3,AutoPro,Garageweg 2,3456CD,Rotterdam,2022,18000,95000
+3,3,AutoPro,Garageweg 2,3456CD,Rotterdam,2023,20000,100000
+4,2,SoftIT,ITlaan 10,5678EF,Amsterdam,2018,50000,200000
+4,2,SoftIT,ITlaan 10,5678EF,Amsterdam,2019,52000,210000
+4,2,SoftIT,ITlaan 10,5678EF,Amsterdam,2020,61000,220000
+4,2,SoftIT,ITlaan 10,5678EF,Amsterdam,2021,60000,230000
+4,2,SoftIT,ITlaan 10,5678EF,Amsterdam,2022,65000,240000
+4,2,SoftIT,ITlaan 10,5678EF,Amsterdam,2023,70000,250000
+5,1,NewsMedia,Mediaweg 3,8765GH,Utrecht,2018,7000,60000
+5,1,NewsMedia,Mediaweg 3,8765GH,Utrecht,2019,9000,70000
+5,1,NewsMedia,Mediaweg 3,8765GH,Utrecht,2020,11000,75000
+5,1,NewsMedia,Mediaweg 3,8765GH,Utrecht,2021,10000,80000
+5,1,NewsMedia,Mediaweg 3,8765GH,Utrecht,2022,12000,85000
+5,1,NewsMedia,Mediaweg 3,8765GH,Utrecht,2023,15000,90000
+6,3,CarFix,Autostraat 8,6543IJ,Eindhoven,2018,4000,50000
